@@ -34,10 +34,10 @@ EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 2 3
+Sheet 2 4
 Title "Poplock - Fonte de alimentação 12V/5V/3V3"
 Date "2016-08-28"
-Rev "1"
+Rev "1.0"
 Comp "Escola Politécnica -- Caio Batista e Fabrício Ribeiro"
 Comment1 ""
 Comment2 ""
