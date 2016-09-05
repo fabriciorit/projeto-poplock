@@ -1,5 +1,5 @@
 # Projeto fechado
-# Escrever licença aqui para que seja publicado
+# Escrever licensa aqui para que seja publicado
 
     PSI2662 - Projeto em Sistemas Eletrônicos Embarcados: Sensores e Atuadores
 

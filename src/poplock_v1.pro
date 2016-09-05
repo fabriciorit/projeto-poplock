@@ -1,4 +1,4 @@
-update=Fri 02 Sep 2016 12:42:55 PM BRT
+update=Seg 05 Set 2016 16:46:35 BRT
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=../lib
+LibDir=../lib;../../../../../Downloads/library-kicad-master
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -59,3 +59,4 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=L293D
+LibName31=microphone
