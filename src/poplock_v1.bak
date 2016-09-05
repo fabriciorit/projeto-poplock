@@ -62,10 +62,17 @@ F5 "_LOCKED" O R 10400 3500 60
 F6 "DIRECTION_L" I L 8350 3550 60 
 $EndSheet
 $Sheet
+<<<<<<< HEAD
 S 4450 3000 900  350 
 U 57CE139B
 F0 "Microfone" 60
 F1 "microfone.sch" 60
 F2 "MIC_ANALOG_OUT" U R 5350 3150 60 
+=======
+S 2700 5000 1500 1100
+U 57CDF481
+F0 "Interface" 60
+F1 "interface.sch" 60
+>>>>>>> interface
 $EndSheet
 $EndSCHEMATC
