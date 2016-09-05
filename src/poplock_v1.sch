@@ -35,9 +35,9 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 3
-Title "Poplock - Fonte de alimentação 12V/5V/3V3"
+Title "Circuito central"
 Date "2016-08-28"
-Rev "1"
+Rev "1.0"
 Comp "Escola Politécnica -- Caio Batista e Fabrício Ribeiro"
 Comment1 ""
 Comment2 ""
@@ -47,7 +47,7 @@ $EndDescr
 $Sheet
 S 2750 800  1800 700 
 U 57C99D1A
-F0 "Fonte 12V/5V/3V3" 20
+F0 "Fonte 12V/5V/3V3" 60
 F1 "fonte_12v_5v_3v3.sch" 60
 $EndSheet
 $Sheet
