@@ -29,13 +29,12 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:L293D
-LIBS:microphone
 LIBS:poplock_v1-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 2 3
+Sheet 2 4
 Title "Poplock - Fonte de alimentação 12V/5V/3V3"
 Date "2016-08-28"
 Rev "1.0"
