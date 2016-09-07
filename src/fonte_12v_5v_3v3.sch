@@ -34,7 +34,7 @@ EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 2 4
+Sheet 2 5
 Title "Poplock - Fonte de alimentação 12V/5V/3V3"
 Date "2016-08-28"
 Rev "1.0"
