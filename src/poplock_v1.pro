@@ -1,4 +1,4 @@
-update=Mon 05 Sep 2016 08:28:18 PM BRT
+update=Thu 08 Sep 2016 10:26:31 AM BRT
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,3 +59,4 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=L293D
+LibName31=ESP8266

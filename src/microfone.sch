@@ -29,6 +29,7 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:L293D
+LIBS:ESP8266
 LIBS:poplock_v1-cache
 EELAYER 25 0
 EELAYER END
