@@ -1,0 +1,23 @@
+ERC report (Thu 08 Sep 2016 11:53:50 AM BRT, Encoding UTF8 )
+
+***** Sheet /
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (66.04 mm,151.13 mm): Pin 8 (Power input) of component U1 is not driven (Net 41).
+
+***** Sheet /Fonte 12V/5V/3V3/
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (143.51 mm,77.47 mm): Pin 3 (Power input) of component U2 is not driven (Net 93).
+
+***** Sheet /Trava/
+ErrType(5): Conflict problem between pins. Severity: error
+    @ (114.30 mm,66.04 mm): Pin 6 (Output) of component IC1 is connected to 
+    @ (144.78 mm,66.04 mm): pin 11 (Output) of component IC1 (net 94).
+ErrType(5): Conflict problem between pins. Severity: error
+    @ (144.78 mm,50.80 mm): Pin 14 (Output) of component IC1 is connected to 
+    @ (114.30 mm,50.80 mm): pin 3 (Output) of component IC1 (net 95).
+
+***** Sheet /Interface/
+
+***** Sheet /Microfone/
+
+ ** ERC messages: 4  Errors 2  Warnings 2
