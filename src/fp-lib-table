@@ -1,3 +1,4 @@
 (fp_lib_table
-  (lib (name Capacitores)(type Legacy)(uri /home/caio/Documentos/USP/PSI2662/git/projeto-poplock/lib/Capacitores.mod)(options "")(descr ""))
+  (lib (name lib)(type KiCad)(uri ${KIPRJMOD}/lib)(options "")(descr ""))
+  (lib (name Capacitores)(type Legacy)(uri ${KIPRJMOD}/lib/Capacitores.mod)(options "")(descr ""))
 )
