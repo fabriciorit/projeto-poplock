@@ -2,7 +2,7 @@
 <export version="D">
   <design>
     <source>/home/fabricio/projeto-poplock/src/poplock_v1.sch</source>
-    <date>Fri 09 Sep 2016 11:50:34 PM BRT</date>
+    <date>Tue 20 Sep 2016 08:23:57 AM BRT</date>
     <tool>Eeschema 4.0.2+dfsg1-stable</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -876,9 +876,6 @@
     </libpart>
   </libparts>
   <libraries>
-    <library logical="poplock_v1-cache">
-      <uri>/home/fabricio/projeto-poplock/src/poplock_v1-cache.lib</uri>
-    </library>
     <library logical="conn">
       <uri>/usr/share/kicad/library/conn.lib</uri>
     </library>
@@ -887,6 +884,9 @@
     </library>
     <library logical="regul">
       <uri>/usr/share/kicad/library/regul.lib</uri>
+    </library>
+    <library logical="poplock_v1-cache">
+      <uri>/home/fabricio/projeto-poplock/src/poplock_v1-cache.lib</uri>
     </library>
   </libraries>
   <nets>
