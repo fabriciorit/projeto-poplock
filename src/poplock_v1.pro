@@ -1,4 +1,4 @@
-update=Thu 08 Sep 2016 10:26:31 AM BRT
+update=Thu 22 Sep 2016 09:45:16 PM BRT
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,8 +23,6 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
-[general]
-version=1
 [eeschema]
 version=1
 LibDir=../lib;../../../../../Downloads/library-kicad-master
@@ -60,3 +58,5 @@ LibName28=contrib
 LibName29=valves
 LibName30=L293D
 LibName31=ESP8266
+[general]
+version=1
