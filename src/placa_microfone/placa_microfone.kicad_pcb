@@ -3,7 +3,7 @@
   (general
     (links 22)
     (no_connects 0)
-    (area 0 0 0 0)
+    (area 121.687857 39.929999 160.730001 69.88)
     (thickness 1.6)
     (drawings 7)
     (tracks 103)
@@ -87,7 +87,7 @@
       (mirror false)
       (drillshape 1)
       (scaleselection 1)
-      (outputdirectory ""))
+      (outputdirectory ../print/))
   )
 
   (net 0 "")
