@@ -2,7 +2,7 @@
 Responsáveis: Caio Vinícius Batista Pereira e Fabrício Ribeiro Toloczko
 
 ## Introdução e Justificativa
-    A automatização residencial tem se tornado cada vez mais comum e mais barata. E uma das facilidades trazidas por este tipo de aplicação tecnológica é a dependência cada vez menor de falhas humanas. É comum as pessoas perderem ou esquecerem as chaves para entrar em casa, e muitas vezes as pessoas tem dificuldades para lembrar senhas. Músicas são trechos sonoros facilmente memorizáveis, além disso extremamente seguros, pois o número de músicas existentes é muito grande e disperso. 
+A automatização residencial tem se tornado cada vez mais comum e mais barata. E uma das facilidades trazidas por este tipo de aplicação tecnológica é a dependência cada vez menor de falhas humanas. É comum as pessoas perderem ou esquecerem as chaves para entrar em casa, e muitas vezes as pessoas tem dificuldades para lembrar senhas. Músicas são trechos sonoros facilmente memorizáveis, além disso extremamente seguros, pois o número de músicas existentes é muito grande e disperso. 
 
 ## Especificação do Produto
 * Reconhecimento de pelo menos 5 segundos de padrão sonoro;
